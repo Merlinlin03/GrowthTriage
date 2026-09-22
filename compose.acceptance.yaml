@@ -1,0 +1,17 @@
+name: growthtriage-acceptance
+services:
+  growthtriage:
+    build: .
+    image: growthtriage:local-acceptance
+    container_name: growthtriage-acceptance
+    ports:
+      - "127.0.0.1:18088:8088"
+    environment:
+      GT_APP_MODE: local
+      GT_DATABASE_URL: sqlite:////app/data/growthtriage.db
+      GT_COOKIE_SECURE: "false"
+      DEEPSEEK_API_KEY: ""
+    volumes:
+      - acceptance-data:/app/data
+volumes:
+  acceptance-data:

@@ -1,0 +1,13 @@
+services:
+  growthtriage:
+    build: .
+    ports:
+      - "127.0.0.1:8088:8088"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      GT_DATABASE_URL: sqlite:////app/data/growthtriage.db
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

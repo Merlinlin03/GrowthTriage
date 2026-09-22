@@ -1,0 +1,7 @@
+﻿"metric_row_id","window","period_start","period_end","reporting_timezone","platform","country","campaign_id","creative_id","currency","conversion_source","attribution_window","spend","impressions","reach","destination_clicks","installs","revenue_d7"
+"SIM-METRIC-001","baseline","2026-08-25","2026-08-31","UTC","Meta","BR","SIM-AIPHOTO-BR","SIM-BR-PORTRAIT-A","USD","synthetic","7d_click","1200","120000","60000","3600","720","1800"
+"SIM-METRIC-002","current","2026-09-01","2026-09-07","UTC","Meta","BR","SIM-AIPHOTO-BR","SIM-BR-PORTRAIT-A","USD","synthetic","7d_click","1650","150000","30000","1800","180","660"
+"SIM-METRIC-003","baseline","2026-08-25","2026-08-31","UTC","Meta","BR","SIM-AIPHOTO-BR","SIM-BR-LIGHT-B","USD","synthetic","7d_click","600","60000","30000","1500","300","900"
+"SIM-METRIC-004","current","2026-09-01","2026-09-07","UTC","Meta","BR","SIM-AIPHOTO-BR","SIM-BR-LIGHT-B","USD","synthetic","7d_click","690","65000","32500","1690","338","1035"
+"SIM-METRIC-005","baseline","2026-08-25","2026-08-31","UTC","Meta","US","SIM-AIPHOTO-US","SIM-US-LIGHT-C","USD","synthetic","7d_click","1440","80000","40000","2400","480","2160"
+"SIM-METRIC-006","current","2026-09-01","2026-09-07","UTC","Meta","US","SIM-AIPHOTO-US","SIM-US-LIGHT-C","USD","synthetic","7d_click","1512","84000","42000","2520","504","2268"

@@ -1,0 +1,6 @@
+feedback_id,created_at,source_type,audience_stage,country,text,link_method,language,rating,platform,campaign_id,creative_id
+f1,2026-08-18T12:00:00Z,ad_comment,prospect,CA,Good app,direct_ad_object,en,,Meta,CMP-CA,CR-CA-9
+f2,2026-08-19T12:00:00Z,ad_comment,prospect,CA,Works well,direct_ad_object,en,,Meta,CMP-CA,CR-CA-9
+f3,2026-08-25T12:00:00Z,ad_comment,prospect,CA,I see this ad too often,direct_ad_object,en,,Meta,CMP-CA,CR-CA-9
+f4,2026-08-26T12:00:00Z,ad_comment,prospect,CA,The ad promise differs from the app,direct_ad_object,en,,Meta,CMP-CA,CR-CA-9
+f5,2026-08-27T12:00:00Z,ad_comment,prospect,CA,I see it too often,direct_ad_object,en,,Meta,CMP-CA,CR-CA-9

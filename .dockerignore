@@ -1,0 +1,15 @@
+.git
+.env*
+backend/__pycache__
+backend/tests
+backend/test-*.db
+backend/.test-deps
+backend/.runtime-deps
+**/*.db
+**/*.db-wal
+**/*.db-shm
+backups
+frontend/node_modules
+frontend/.npm-cache
+frontend/dist
+docs

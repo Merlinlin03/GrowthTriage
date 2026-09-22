@@ -1,0 +1,3 @@
+metric_row_id,window,period_start,period_end,reporting_timezone,platform,country,campaign_id,creative_id,currency,conversion_source,attribution_window,spend,impressions,reach,destination_clicks,installs,revenue_d7
+m1,baseline,2026-08-18,2026-08-24,UTC,Meta,CA,CMP-CA,CR-CA-9,USD,mmp,7d_click,100,10000,5000,300,60,140
+m2,current,2026-08-25,2026-08-31,UTC,Meta,CA,CMP-CA,CR-CA-9,USD,mmp,7d_click,120,12000,3000,180,18,50
